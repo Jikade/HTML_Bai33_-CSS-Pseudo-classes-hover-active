@@ -1,0 +1,11 @@
+/* Định dạng kiểu sau khi di chuột qua văn bản */
+#line1:hover {
+  color: brown;
+  font-size: 30px;
+}
+
+/* Định dạng kiểu sau khi giữ chuột vào văn bản */
+p.giuchuot:active {
+  color: darkblue;
+  font-size: 30px;
+}
